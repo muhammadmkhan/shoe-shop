@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "shoe_shop_FE",
+    "slug": "shoe_shop_FE",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/shoe-store-login-logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/shoe-store-login-logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#B69663"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/shoe-store-login-logo.png"
+    }
+  }
+}
